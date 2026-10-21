@@ -40,7 +40,7 @@ directory. Designed, built and shipped to production solo, with Claude Code as t
   GitHub Actions CI/CD, daily backups and monitoring
 - Media pipeline with direct-to-Blob signed uploads and a transactional outbox → PostgreSQL queue → background worker
 
-### 🔎 Percept — Generative Engine Optimization at Chromatics AI
+### 🔎 Chromatics AI — Generative Engine Optimization (GEO) platform
 
 *Senior data architect.* A platform that tracks how brands appear in the answers of AI assistants (OpenAI, Gemini,
 Perplexity). I architect its data, backend and API layer:
